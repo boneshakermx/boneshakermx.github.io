@@ -492,6 +492,9 @@ label {
     background-attachment: scroll;
     position: absolute;
   }
+  .logogrande {
+    display: block;
+  }
 }    
 
 /*  ACERCA
